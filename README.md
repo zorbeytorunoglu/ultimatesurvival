@@ -1,48 +1,50 @@
-**Top Optimization!**
+# Full Features List
+
+## Top Optimization!
 
 There is nothing more annoying than technical issues! We promise that you and your players will never face any TPS, performance issues! Non-stop beautiful gaming! ULTIMATE SURVIVAL is made to handle high player traffic easily, without any problems!
 
-**Living Town!**
+## Living Town!
 
 Townspeople are now alive! We always see simple robotic NPCs in classic server setups. But in ULTIMATE SURVIVAL, each NPC has its own story. Some of them were criminals, some of them were old heroes of Wild, some were old sailors, some were just simple traders! Besides some critical NPCs, most of them open their shops at sunrise, close and go to their home at sunset! Many of them have at least one RPG-like quest to offer your players!
 
-**Blood Nights!**
+## Blood Nights!
 
 Our lovely town is a safe zone but we have a world called The Wild and we can not guarantee anyone's safety in there! Usually, it looks normal to the eyes, but when there is a "Blood Night", all the monsters becomes stronger, stranger and scarier! Thankfully, the folk of the town learned a way to calculate the time frame of it so you, as a citizen of our town, will know when it is going to happen!
 
-**Our Beloved Captain!**
+## Our Beloved Captain!
 
 There is a brave captain in our town. Brave and bold enough to sail people to The Wild! If you want him to drop you somewhere random, first you should prove yourself to him by helping other people in town (coımpleting their little quests), you should pay for his expenses and bravery! You can reserve your place in his ship but you better not miss it on time!
 
-**Custom Fishing!**
+## Custom Fishing!
 
 Townspeople should eat! That is why our traders pays fairly to those who are skilled in fishing! They even offer custom baits for you to catch more!
 
-**Player Banks!**
+## Player Banks!
 
 Since our town is full and no more outsiders are accepted, you will have to settle in The Wild and it will not be easy! You should not carry all your money in your pocket all the time! Some guy in our town keeps all of our savings for us!
 
-**Kits for Heroes!**
+## Kits for Heroes!
 
 Our town offers some kits to our heroes of the Wild in case of an emergency. They are a little expensive but we really don't want to break the true feeling of survival and give them an easy time to achieve those items (configurable)! You can either buy them or unlock them through donations!
 
-**Parkour Guy!**
+## Parkour Guy!
 
 Every town has its one acrobatic citizen that runs and jumps around! Ours is a bit different, he encourages others to run and jump! He doesn't even talk to you until you prove that you are good enough! He offers rewards for those who jumps most!
 
-**Casino Rulette!**
+## Casino Rulette!
 
 I don't say that gambling is good, but someone is making a quite nice amount of money! If you ever feel like lucky, we have a beautiful roulette set in our town!
 
-**Best Performance!**
+## Best Performance!
 
 You may think that running a server with all these living NPCs is not easy but on the contrary, it offers the best performance among all the survival setups you can find despite all of its features!
 
-**Lots of Skills!**
+## Lots of Skills!
 
 A feature-packed skills system that enhances the vanilla survival experience. Players level up skills to earn stat buffs, unlock and level up abilities, and more!
 
-**Stats**
+### Stats
 
 There are 6 stats that buff the player:
 Strength ➽ Increases attack damage
@@ -54,75 +56,75 @@ Toughness ✦ Reduces incoming damage
 
 These stats are leveled up simply by leveling up skills. You can buff/nerf stats and configure which skills level up which stats.
 
-**Abilities**
+### Abilities
 
 Abilities are perks and buffs that you unlock and level up as you level up skills. Each skill has up to 5 abilities, giving many different perks. Abilities are passive, meaning they do not require any extra player input to activate or use.
 
-**Mana Abilities**
+### Mana Abilities
 
 Mana Abilities are a special type of ability that costs mana to use and are active, meaning they require the player to activate or use. By default, mana abilities are unlocked at level 7 of that skill and increase in level every 7 levels. Level increases can change duration/power, cooldown, and mana cost, which are all configurable.
 
-**Easy Moderation**
+## Easy Moderation
 
 Moderation is quite important and must be done carefully because there are too many commands and they all have unique usages! No! Not with this setup! We made everything quite easy.
 
-**Tons of Locations!**
+## Tons of Locations!
 
 We have a huge town! And in it, there are really a lot to see! So, besides what we have already done in this setup, you have tons of room to put whatever you want extra!
 
-**Economy of the Town!**
+## Economy of the Town!
 
 We honestly have a challenging economy applied to our heroes in the town and the main reason behind is that we don't want to provide everything to the player so they are forced to provide anything they need on their own in Wild! The idea of the town, sell minimum amount of resources and buy the ones that players are likely to build themselves a living out of.
 
-**Better Reparing!**
+## Better Reparing!
 
 In this kind of game mode, tools, weapons and armors are not found or earned easily. So, repairing plays a big role so we came up with a system that players can repair their items with both money and experience. Also, everything can be done via GUI! We have animations on anvils too!
 
-**Rewarding our Guardians!**
+## Rewarding our Guardians!
 
 There are always criminals, thieves and other dishonest people everywhere. Our town uses a bounty method to reward the brave heroes who keeps them away from us!
 
-**Making a Living through Jobs!**
+## Making a Living through Jobs!
 
 Making your living is not easy here just like in the real world! So, players may need to be working in two different jobs or they may choose to be good at only one! We have experience system, quests system and level system for our workers! Better than real life!
 
-**EULA Friendly Cosmetics!**
+## EULA Friendly Cosmetics!
 
 There are quite a lot of different cosmetics for your good-hearted donators! They will not affect anything in gameplay, they will not be stronger than other players. Everything is balanced and equal!
 
-**Crates for the Lucky Ones!**
+## Crates for the Lucky Ones!
 
 Our cute town has a lot to offer! When our townspeople feel lucky, they pick a crate and try their chances for great and powerful rewards!
 
-**Active Player Trading!**
+## Active Player Trading!
 
 Trading is considered as dangerous but we did our best to make it as safe as possible! There are two different ways of trading here, one of them is the auction system, and the other is goold old trading with the help of the system!
 
-**Banner Creator!**
+## Banner Creator!
 
 "Show me the race or the nation without a flag, and I will show you a race of people without any pride." said Steven A. Knowlton. There are a lot of options, different colors, patterns and so on! Let your players save their prides!
 
-**Exchangers!**
+## Exchangers!
 
 In our town, we value your experiences that you gained during your journey. That is why there are some pople who wants to pay fairly for them!
 
-**Visualized Interactions!**
+## Visualized Interactions!
 
 It is important for us to make players feel like they are in some place advanced! So, we thought that it might be a good idea to visualize their simplest Minecraft actions!
 
-**Hunting Mobs & Animals!**
+## Hunting Mobs & Animals!
 
 Our townspople must eat! So, you can earn money by hunting animals and they also need a safer world so they also pay you for hunting hostile mobs!
 
-**They Also Need Some Rest!**
+## They Also Need Some Rest!
 
 We wanted to create and give players a real living town experience without damaging the game's basics. And it is just something wonderful!
 
-**Spawner Shop!**
+## Spawner Shop!
 
 Buying spawners with money is something classic, but with this system of ours, your players can buy them with both money or xp! Everything is configurable!
 
-**Full Feature List**
+# Full Feature List
 
 Parkour
 
