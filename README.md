@@ -1,4 +1,6 @@
-# Full Features List
+See the **WIKI**: https://github.com/zorbeytorunoglu/ultimatesurvival/wiki
+
+# Full Feature List
 
 ## Top Optimization!
 
